@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    color: whitesmoke;
+    background: linear-gradient(black, #f4407f)
+}
+.photo{
+    width: 300px;
+    border:5px solid #f4407f;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+.gift-img{
+    border: 5px solid #f4407f;
+    background-image: url("present.jpg");
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    background-size: auto;
+}
+.gift-img-cheers{
+    height: 200px;
+    border: 5px solid #f4407f;
+    background-image: url("present2.jpg");
+    width: 400px;
+    margin: 30px auto 60px;
+    background-size: cover;
+}
+#gift-img-happy:hover{
+    background-image: url("happy4.webp");
+    background-size: cover;
+}
+#gift-img-people:hover{
+    background-image:url("happy.webp");
+    background-size: cover;
+}
+#gift-img-describe:hover{
+    background-image: url("intelligent2.webp");
+    background-size: cover;
+}
+#gift-img-beautiful:hover{
+    background-image: url("beautiful2.webp");
+    background-size: cover;
+}
+#gift-img-cheers-friend:hover{
+    background-image: url("happy3.webp");
+    background-size: cover;
+}
+p{
+    font-size: 28px;
+}
+h1{
+    font-size: 40px;
+    margin: 30px auto 10px ;
+}
+h3{
+    font-size: 30px;
+    background-color: #f4407f;
+    width: 170px;
+    margin: 10px auto;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+h4{
+    font-size: 20px;
+    background-color: #f4407f;
+    width: 140px;
+    margin:13px auto;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
